@@ -1,2 +1,2 @@
-# Proyecto-hada-y-estrella
-Juego del hada y estrella
+# Proyecto22
+Juego del hada y la estrella 
